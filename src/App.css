@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+  height: 100dvh;
+}
+
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+main {
+  height: 90dvh;
+}
+
+* {
+  scrollbar-color: #67686b6e transparent;
+  scrollbar-width: thin;
+  scroll-behavior: smooth;
+}
